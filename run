@@ -1,5 +1,1 @@
-#!/bin/bash
-
-
-googlesamples-assistant-hotword --project_id "jarvis-pi-9689f" --device_model_id "jarvis-pi-9689f-jarvis-ogq7jp"
-
+googlesamples-assistant-hotword --project-id jarvis-pi-9689f --device-model-id jarvis-pi-9689f-jarvis-ruqurx
